@@ -10,5 +10,7 @@ Este repositório contém o código de um site simples para uma cafeteria fictí
 
 - **HTML5**: Estruturação básica das páginas.
 - **CSS3**: Estilização das páginas, garantindo um layout responsivo e visualmente atraente.
+- **Bootstrap**: Framework CSS utilizado para garantir a responsividade e uma estrutura de layout limpa e organizada;
 - **Netlify**: Hospedagem do site.
 
+## Disponível em: https://viigomesecia.netlify.app/
