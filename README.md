@@ -13,4 +13,4 @@ Este repositório contém o código de um site simples para uma cafeteria fictí
 - **Bootstrap**: Framework CSS utilizado para garantir a responsividade e uma estrutura de layout limpa e organizada;
 - **Netlify**: Hospedagem do site.
 
-## Disponível em: https://viigomesecia.netlify.app/
+Disponível em: https://viigomesecia.netlify.app/
