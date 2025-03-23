@@ -1,4 +1,4 @@
-# Vii Gomes e Cia
+# Cafeteria Vii Gomes e Cia
 
 **Vii Gomes e Cia** é um projeto fictício de um site de cafeteria, desenvolvido para fins demonstrativos. O site apresenta um cardápio com bebidas e sobremesas, além de oferecer promoções e uma interface simples para interação com os usuários.
 
